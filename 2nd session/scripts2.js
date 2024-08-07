@@ -1,0 +1,1 @@
+alert("Aagye sare muh utha ke pdhne ")
